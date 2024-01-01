@@ -25,7 +25,7 @@
 
 @media only screen and (max-width: 600px) {
     #navbar li {
-        font-size: 0.8rem; /* Adjust for smaller screens */
+        font-size: 0.7rem; /* Adjust for smaller screens */
         margin-right: 5px; /* Adjust for smaller screens */
     }
     #navbar ul li:last-child {
